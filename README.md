@@ -12,12 +12,11 @@ The platform promotes structured data management, real-time coordination among h
 
 ## 🎯 Objectives
 
-- Digitize patient records and medical chart tracking
-- Implement secure role-based authentication
-- Streamline inquiry and patient admission workflow
-- Improve scheduling and coordination between doctors, nurses, and caregivers
-- Generate structured and printable reports
-- Enhance data organization and accessibility
+- To Design and implement a module to manage Patient Records
+- To Design and implement an account management module that organize user roles
+- To design and implement a Staff Scheduling module
+- To Design and implement a Patient Chart Module and tracks the Service given to patients
+- To design a module that will generate timely report
 
 ---
 
